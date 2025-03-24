@@ -1,0 +1,35 @@
+/* Style for the header using a class */
+.body{
+    background-color: #e0d7d7;
+}
+.header {
+    background-color: #3498db;
+    color: rgb(46, 41, 41);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling the paragraph using a class */
+.intro {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: #333;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Styling the image */
+.styled-image {
+    width: 400px;
+    border: 5px solid #2ecc71;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Footer styling using an ID */
+#footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
